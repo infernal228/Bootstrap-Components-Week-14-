@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 2500px;
+}
+
+.fas {
+  font-size: 40px;
+}
+
+.jumb {
+  text-align: center;
+}
